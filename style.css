@@ -423,7 +423,8 @@ footer li {
 /* Laptop */
 @media (max-width: 992px) {
 	html {
-		font-size: 85%;
+		/* font-size: 85%; */
+		font-size: 100%;
 	}
 
 	.simply-countdown>.simply-section {
@@ -469,7 +470,8 @@ footer li {
 /* Tablet */
 @media (max-width: 768px) {
 	html {
-		font-size: 73%;
+		/* font-size: 73%; */
+		font-size: 90%;
 	}
 
 	.simply-countdown>.simply-section {
@@ -496,7 +498,7 @@ footer li {
 @media (max-width: 576px) {
 	html {
 		/* font-size: 53%; */
-		font-size: 100%;
+		font-size: 80%;
 	}
 
 	.simply-countdown>.simply-section {
